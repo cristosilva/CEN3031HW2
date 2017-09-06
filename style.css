@@ -1,0 +1,12 @@
+#searchBar {
+  margin: 15px 10px;
+}
+body{
+	background-image: url("corgi2.gif");
+}
+
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
